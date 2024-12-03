@@ -1,0 +1,64 @@
+header{
+    background-color: black;  
+    width: 100%;
+    padding-bottom: 30px;
+    
+}
+
+.va{
+    color: goldenrod;
+    display: inline;
+    text-align: left;
+    padding-left: 40px;
+    margin-left: 20px;
+    
+}
+li:hover{
+    color: goldenrod;
+    text-decoration: underline;
+}
+.nav{
+    width: 70%;
+   margin-right: 120px; 
+   margin-top: -60px;
+   text-align: right;
+}
+.footer{
+    background-color: black;
+    margin-top: 50PX;
+    padding-bottom: 30PX;
+}
+.fot{
+    width: 70%;
+   margin-right: 120px; 
+   margin-top: -40px;
+   text-align: right;
+   padding-bottom: 30PX;
+   position: absolute;
+}
+.ful{
+    margin-top: 30px;
+}
+.ft{
+    color: goldenrod;
+    text-align: left;
+    padding-left: 40px;
+    margin-left: 400px;
+    margin-top: -40px;
+    
+}
+.fi{
+    text-align: justify;
+    margin-left: 700px;
+    color: goldenrod;
+    position: relative;
+    margin-top: -80px;
+}
+.fd{
+    text-align: justify;
+    margin-left: 700px;
+    color: goldenrod;
+    position: relative;
+    margin-top: -3px;
+   
+}
